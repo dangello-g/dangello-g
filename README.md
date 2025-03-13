@@ -4,7 +4,7 @@ I'm D'Angello, a software developer specializing in backend development. 🚀
 
 ## About me
 
-- 🌱 I’m currently learning **AI, ML, Go, Kafka, NestJS**
+- 🌱 I’m currently learning **AI, ML, Go, Kafka**
 
 - 📫 You can reach me at **https://calendar.app.google/ktDnJxexrC4N53sLA**
 
