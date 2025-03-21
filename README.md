@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-I'm D'Angello, a software developer specializing in backend development. 🚀
+I'm D'Angello, a software engineer specialized in backend engineering. 🚀
 
 ## About me
 
